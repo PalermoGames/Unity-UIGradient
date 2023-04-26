@@ -1,0 +1,9 @@
+{
+	"name": "com.uigradient.palermo",
+	"displayName":"UiGradient.Palermo",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"description": "A UI gradient effect script for Unity",
+	"dependencies": {
+	}
+}
